@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{9252F941-DB23-4FCA-AA50-858B33BB4A19}" version="11.40">
+	<children>
+		<folder name="sdf" />
+		<folder name="Global">
+			<child name="Global_useunits" key="{9FB5CF20-DB97-4DE0-97AF-3AE11289CB28}" path="Global_useunits.js" />
+			<child name="csvReader" key="{20C18190-39E2-4679-8991-F251C87BA9DF}" path="csvReader.js" />
+			<child name="ExcelReader" key="{668B1A50-A45B-4B24-8AC7-59340A40D893}" path="ExcelReader.js" />
+			<child name="CsvReader2_0" key="{2529E3AB-E4D8-4795-805E-769417755C7A}" path="CsvReader2_0.js" />
+			<child name="CSVReader3_0" key="{09000390-3ADD-4751-8CAB-6CF2F3155E73}" path="CSVReader3_0.js" />
+			<child name="FileReader_Conversion" key="{C3A733E8-D7B9-47A8-AB80-08DD06DA0B01}" path="FileReader_Conversion.js" />
+			<child name="LaunchApp" key="{223556F8-366C-4E83-8298-443643819F10}" path="LaunchApp.js" />
+		</folder>
+		<folder name="CommonlUtilities">
+			<child name="LogUtilities" key="{7550F22C-F437-477D-9EF1-E60CE86CF08D}" path="LogUtilities.js" />
+			<child name="File_Utilities" key="{CD1CC8BD-304C-4B31-8901-AA51A780DB0E}" path="File_Utilities.js" />
+			<child name="DateTimeUtils" key="{B750991B-E56E-4469-A344-4E9CEBAA500E}" path="DateTimeUtils.js" />
+			<child name="DatabaseUtils" key="{45135019-44ED-4E4A-9A6A-A88EEDDFA9D2}" path="DatabaseUtils.js" />
+			<child name="F_Useunits" key="{F7EC86C8-EAA8-4314-A112-4B13DCA660B0}" path="F_Useunits.js" />
+		</folder>
+		<folder name="ApplicationPages">
+			<child name="FileHelper" key="{1884F514-65E8-4620-AF7E-B647A772C0BD}" path="FileHelper.js" />
+			<child name="OrdersHelper" key="{1AF3EB99-FC1C-4773-BD24-85F93CD1DBF0}" path="OrdersHelper.js" />
+			<child name="WindowsHelper" key="{DC33E392-4CF0-4BD6-84D8-6E79E550C5CE}" path="WindowsHelper.js" />
+			<child name="HomePageHelper" key="{BCC81168-BABB-4442-B19F-F82E0808817F}" path="HomePageHelper.js" />
+			<child name="Helper_Useunits" key="{EB1EBABD-4833-44C0-81E6-404141C8E884}" path="Helper_Useunits.js" />
+		</folder>
+		<folder name="UnitTest">
+			<child name="OrderTests" key="{4F5BB952-A8CD-4D83-824F-AB129A5D5CE0}" path="OrderTests.js" />
+			<child name="Test_Useunit" key="{1EF9981D-EEB3-4EBE-8BDF-58F0A4FB0838}" path="Test_Useunit.js" />
+			<child name="FileTests" key="{4F8C8BBF-0118-4E8C-AE82-DD05C5C1561C}" path="FileTests.js" />
+		</folder>
+		<folder name="Report">
+			<child name="HTMLReport" key="{A6653B44-C4E7-4FCA-B525-F27166601219}" path="HTMLReport.js" />
+			<child name="jUnitReport" key="{FBAC7CFF-4085-4CFE-884A-9E13245778DA}" path="jUnitReport.js" />
+			<child name="Report_Useunit" key="{516CA34C-C4F2-4164-A0DC-C3AF546C808C}" path="Report_Useunit.js" />
+		</folder>
+		<folder name="AppplicationCheckpoints">
+			<child name="OrderCheckpoints" key="{08EAF646-80D4-40BF-AAF3-D9D48496FF63}" path="OrderCheckpoints.js" />
+			<child name="MaineMenuCheckpoints" key="{577707B3-6019-40C7-9B3A-71BD1ED1FBE9}" path="MaineMenuCheckpoints.js" />
+		</folder>
+		<folder name="TestSuite">
+			<child name="TestSuite1" key="{7440296A-B392-4EAD-A15B-008704FA72CA}" path="TestSuite1.js" />
+		</folder>
+		<folder name="ApplicationConfiguration">
+			<child name="Globalvariables" key="{DB867619-B04B-487A-8986-CBED960425FF}" path="Globalvariables.js" />
+		</folder>
+	</children>
+</Root>

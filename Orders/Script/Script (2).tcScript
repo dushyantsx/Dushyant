@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{9252F941-DB23-4FCA-AA50-858B33BB4A19}" version="11.40">
+	<children>
+		<folder name="Global">
+			<folder name="FileUtils">
+				<child name="fileUtils" key="{8F682950-270E-4C21-8DFA-FA6458D3598B}" path="fileUtils.js" />
+			</folder>
+			<folder name="globalUtilities">
+				<child name="globalmethods" key="{B79696B7-A3D0-49AD-9774-B90877A4F409}" path="globalmethods.js" />
+				<child name="globalvariables" key="{DB867619-B04B-487A-8986-CBED960425FF}" path="globalvariables.js" />
+			</folder>
+			<folder name="logUtilities">
+				<child name="logs" key="{C45AA216-874B-452D-B11E-916F818C61EB}" path="logs.js" />
+			</folder>
+			<child name="allglobal" key="{8577E71B-7289-4B7D-90ED-C2D813FCE475}" path="allglobal.js" />
+		</folder>
+		<folder name="Application">
+			<folder name="ApplicationPages">
+				<child name="headermenu" key="{D6FC9EC6-A486-405B-A53F-967D6418B017}" path="headermenu.js" />
+				<child name="MDIform" key="{2A8DD3F0-E206-4696-822B-5F39F46DD9E5}" path="MDIform.js" />
+				<child name="ordersform" key="{405E5065-ADC5-42FE-B12A-634F08D0DF88}" path="ordersform.js" />
+			</folder>
+			<folder name="ApplicationCheckPoints" />
+			<folder name="ApplicationUtils">
+				<child name="applicationutility" key="{778FDD56-F401-406E-B8C7-8D845DED41C4}" path="applicationutility.js" />
+				<child name="configurations" key="{39BC1C90-B681-4E04-AF5A-63F9972E6D8B}" path="configurations.js" />
+			</folder>
+		</folder>
+		<folder name="TestScripts">
+			<folder name="UnitTests" />
+			<folder name="TestSuits" />
+			<child name="createorder" key="{51E647E1-DC07-42BB-968E-EFABBDEF0F9B}" path="createorder.js" />
+			<child name="editorder" key="{308E6321-E685-434F-A0BA-8DCF8743A022}" path="editorder.js" />
+			<child name="loaddatabase" key="{C48242A9-7708-4663-A82B-94DB5512A425}" path="loaddatabase.js" />
+			<child name="deleteorder" key="{88C0AB1C-BEBC-4781-B66B-7E164C5A87EA}" path="deleteorder.js" />
+		</folder>
+		<child name="Unit1" key="{22C005CC-CC93-498F-BF51-0FC6147172B9}" path="Unit1.js" />
+	</children>
+</Root>

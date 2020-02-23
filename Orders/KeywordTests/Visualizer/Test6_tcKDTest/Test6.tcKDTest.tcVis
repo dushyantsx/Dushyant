@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{42D2222C-ACA2-405F-8E67-05D5C42EB839}" version="2">
+	<data key="{FACF6D81-A4B0-4CFB-BB06-0F9783D8A4C9}">
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="0" kind="0" dateTime="43818.3760648148" objectName="Aliases.Orders.MainForm.ToolBar" objectLeft="8" objectTop="51" objectRight="600" objectBottom="79" clickPointX="37" clickPointY="61" imageFileName="tcvi343507822882.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="1" kind="0" dateTime="43818.3761342593" objectName="Aliases.Orders.dlgOpen.btnCancel" objectLeft="687" objectTop="434" objectRight="775" objectBottom="460" clickPointX="713" clickPointY="441" imageFileName="tcvi344112522885.png" storageFileName="" needUpdate="False" rectColor="255" />
+	</data>
+</Root>

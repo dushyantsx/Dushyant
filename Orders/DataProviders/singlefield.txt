@@ -1,0 +1,5 @@
+customer#settext~~street#settext~~city#settext~~state#settext~~zip#settext~~cardno#settext~~price#settext~~discount#settext~~quantity#wvalue~~date#wdate~~expdate#wdate
+John Smith Jr~~12~~Grovetown~~US~~111155~~555777555888~~$100~~0%~~5~~14-09-2008~~14-09-2008
+Clare Jefferson~~23~~Grovetown~~US~~111155~~444777333888~~$100~~8%~~5~~14-09-2008~~14-09-2008
+Susan McLaren~~S,tr,~eet~~Earlcastle~~Great Britain~~112255~~444555333111~~$100~~8%~~5~~14-09-2008~~14-09-2008
+Charles Dodgeson~~45~~Bringtone~~US~~662233~~444555333111~~$80~~0%~~5~~14-09-2008~~14-09-2008

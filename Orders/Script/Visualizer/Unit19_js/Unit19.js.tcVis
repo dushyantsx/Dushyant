@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{42D2222C-ACA2-405F-8E67-05D5C42EB839}" version="2">
+	<data key="{A7593B4F-CDF4-4A3D-9842-49A343403807}">
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="3" kind="0" dateTime="43834.2764699074" objectName="Aliases.Orders.MainForm.OrdersView" objectLeft="8" objectTop="79" objectRight="600" objectBottom="378" clickPointX="103" clickPointY="110" imageFileName="tcvi1377244984106001.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="5" kind="0" dateTime="43834.2764930556" objectName="Aliases.Orders.MainForm.OrdersView" objectLeft="8" objectTop="79" objectRight="600" objectBottom="378" clickPointX="103" clickPointY="110" imageFileName="tcvi1377246171106002.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="7" kind="0" dateTime="43834.2765393518" objectName="Aliases.Orders.MainForm.OrdersView" objectLeft="8" objectTop="79" objectRight="600" objectBottom="378" clickPointX="-497" clickPointY="-227" imageFileName="tcvi1377250203106005.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="9" kind="0" dateTime="43834.2765625" objectName="Aliases.Orders.dlgConfirmation.btnYes" objectLeft="56" objectTop="114" objectRight="131" objectBottom="137" clickPointX="85" clickPointY="125" imageFileName="tcvi1377252390106007.png" storageFileName="" needUpdate="False" rectColor="255" />
+	</data>
+</Root>
